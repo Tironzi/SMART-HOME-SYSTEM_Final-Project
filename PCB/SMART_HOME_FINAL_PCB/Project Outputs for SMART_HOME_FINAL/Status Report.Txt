@@ -1,0 +1,25 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [SMART_HOME_FINAL.PrjPcb]
+   Generated File[BOARD_Copper_Signal_Top.gbr]
+   Generated File[BOARD_Copper_Signal_Bot.gbr]
+   Generated File[BOARD_Pads_Bot.gbr]
+   Generated File[BOARD_Pads_Top.gbr]
+   Generated File[BOARD_Legend_Top.gbr]
+   Generated File[BOARD_Legend_Bot.gbr]
+   Generated File[BOARD_Soldermask_Top.gbr]
+   Generated File[BOARD_Soldermask_Bot.gbr]
+   Generated File[BOARD_Paste_Top.gbr]
+   Generated File[BOARD_Paste_Bot.gbr]
+   Generated File[BOARD_Keep-out.gbr]
+   Generated File[BOARD_Profile.gbr]
+   Generated File[BOARD_NPTH_Drill.gbr]
+   Generated File[BOARD_PTH_Drill.gbr]
+   Generated File[BOARD.EXTREP]
+   Generated File[BOARD.REP]
+
+
+Files Generated   : 16
+Documents Printed : 0
+
+Finished Output Generation At 5:37:22 PM On 12/3/2025
